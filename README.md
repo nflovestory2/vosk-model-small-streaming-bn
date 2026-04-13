@@ -103,8 +103,5 @@ model-index:
     - name: Test WER
       type: wer
       value: 24.6
----
-
-Small Zipformer2 model trained with k2-fsa/icefall on Bengali data streaming version
 
 Version 0.60
