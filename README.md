@@ -105,14 +105,5 @@ model-index:
       value: 24.6
 ---
 
-Small Zipformer2 model trained with k2-fsa/icefall on Bengali data streaming version
 
 Version 0.60
-
-Links:
-
-<https://alphacephei.com/vosk>
-
-<https://github.com/k2-fsa/icefall>
-
-<https://github.com/k2-fsa/sherpa-onnx>
